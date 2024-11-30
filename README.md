@@ -1,1 +1,2 @@
 # OnlineStoreMVC
+This **Online Store MVC Application** is a web-based project built using the **.NET MVC framework** and integrates **Entity Framework** for database management. It offers features like secure authentication, role-based access, product and order management, and a user-friendly interface using Razor Views and Bootstrap. The project emphasizes clean architecture, robust backend development, and dynamic content rendering. Tools like **Postman** and **Swagger** were used for testing. Future improvements include adding payment gateway integration and user reviews.

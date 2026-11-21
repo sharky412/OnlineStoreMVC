@@ -8,6 +8,7 @@ An **ASP.NET Core MVC** web application for managing an online store's product c
 ![Entity Framework Core](https://img.shields.io/badge/EF_Core-8.0-512BD4)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3?logo=bootstrap&logoColor=white)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Features
 
@@ -74,3 +75,7 @@ OnlineStoreMVC/
 
 - Payment gateway integration
 - User reviews
+
+## License
+
+Released under the [MIT License](LICENSE).
